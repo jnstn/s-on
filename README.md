@@ -146,7 +146,7 @@ S-ON keeps BEM’s ownership model, but removes element chaining and optimises f
 ---
 
 ## Copilot Prompt Contract (S-ON — Updated)
-
+```
 This is the contract Copilot must follow when generating or refactoring class names in S-ON.
 
 ### Core rules
@@ -223,7 +223,7 @@ Underscores preserve contiguous semantic units.
 
 Copilot must generate class names that strictly conform to S-ON grammar.  
 No additional naming schemes may be introduced.
-
+```
 ---
 
 ## License
