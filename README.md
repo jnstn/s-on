@@ -146,7 +146,7 @@ S-ON keeps BEM’s ownership model, but removes element chaining and optimises f
 ---
 
 ## Copilot Prompt Contract (S-ON — Updated)
-```
+```shell
 This is the contract Copilot must follow when generating or refactoring class names in S-ON.
 
 ### Core rules
